@@ -1,3 +1,3 @@
 def check(a,b):
-	pass
+	return a+b
 
